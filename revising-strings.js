@@ -1,2 +1,3 @@
-let example = 123456789
-console.log(example)
+let pizza = 'pizza is alright'
+pizza = pizza.replace('alright' , 'wonderful')
+console.log(pizza)
